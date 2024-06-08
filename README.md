@@ -1,4 +1,5 @@
 Adaptivni LMS algoritam
+
 U ovom projektu se bavimo novom varijacijom LMS filtara sa adaptivnom velicinom koraka. 
 Novi algoritam je izveden iz Lorencijanove funkcije i za cilj ima da resi nedostatke 
 pri biranju izmedju brzine konvergencije i greske pri stacionarnosti, sto su 
